@@ -1,0 +1,7 @@
+cook_recipe:
+  description: >
+    Create a delicious and fun recipe that highlights the brilliance of CrewAI.
+    Ensure the recipe is engaging and follows the specified step count of {dish}.
+  expected_output: >
+    A well-crafted recipe featuring CrewAI, with exactly {dish} steps.
+  agent: chef_agent
